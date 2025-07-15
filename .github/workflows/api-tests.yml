@@ -2,7 +2,7 @@ name: Run API Tests
 
 on:
   push:
-    branches: [ main ]
+    branches: [ feature/framework-skeleton ]
   pull_request:
     branches: [ main ]
 
